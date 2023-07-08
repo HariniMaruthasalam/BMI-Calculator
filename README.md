@@ -1,4 +1,5 @@
 # BMI-Calculator
+![bmi-adult-fb-600x315](https://github.com/HariniMaruthasalam/BMI-Calculator/assets/114240304/01e8980f-e499-4b6f-857b-c71178299a6c)
 
 # ABOUT 
 The BMI (Body Mass Index) Calculator is a simple web application that allows users to calculate their BMI based on their weight and height. BMI is a widely used measurement to assess whether a person has a healthy body weight in relation to their height. This calculator provides a quick and easy way to determine your BMI and understand which category you fall into.
